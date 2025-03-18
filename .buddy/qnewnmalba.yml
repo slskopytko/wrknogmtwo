@@ -1,0 +1,3 @@
+- pipeline: qnewnmalba
+  refs:
+  - refs/heads/master
